@@ -1,2 +1,2 @@
-# foodile-cli-app-java
+# foodie-cli-app-java
 The purpose of this document is to provide a detail specification for a command -line-interface(CLI)application like Zomato .The application will allow customers to choose restaurants, browse dishes and place order.
